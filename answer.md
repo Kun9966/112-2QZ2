@@ -42,7 +42,15 @@ public void mt_getResult(){
     <title></title>
 </head>
 <body>
- 病人
+  
+    <form id="form1" runat="server">
+        <div>
+        </div>
+    </form>
+</body>
+</html>
+```
+病人
 
 1.方便行動不便者提前預約看診
 2.線上預約可依據自身原因，及時選擇是否取消看診
@@ -59,18 +67,10 @@ public void mt_getResult(){
 
 1.方便蒐集病人過往的資料疾病史
 2.利用網頁來確保病人了解看診項目及日期
-3.能夠更改預約掛號   
-    <form id="form1" runat="server">
-        <div>
-        </div>
-    </form>
-</body>
-</html>
-```
-更多markdown方法可參閱[https://ithelp.ithome.com.tw/articles/10203758](https://ithelp.ithome.com.tw/articles/10203758)
+3.能夠更改預約掛號  
+
+
 
 ## 個人認為完成作業須具備觀念
-
-開始寫說明，需要說明本次作業個人覺得需學會那些觀念，亦可作為學習筆記使用 (需寫成文章，需最少50字，並且文內不得有你、我、他三種文字)
 
 需知道利害關係人的目標是什麼，統整出所有關聯為使用系統的任何人帶來便利性，不須透過大量人力即可獲取更大的利益性。
